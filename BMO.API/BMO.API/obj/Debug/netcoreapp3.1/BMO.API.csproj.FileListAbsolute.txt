@@ -1,0 +1,5 @@
+D:\Repos\BMOAPI\BMO.API\BMO.API\obj\Debug\netcoreapp3.1\BMO.API.csprojAssemblyReference.cache
+D:\Repos\BMOAPI\BMO.API\BMO.API\obj\Debug\netcoreapp3.1\BMO.API.AssemblyInfoInputs.cache
+D:\Repos\BMOAPI\BMO.API\BMO.API\obj\Debug\netcoreapp3.1\BMO.API.AssemblyInfo.cs
+D:\Repos\BMOAPI\BMO.API\BMO.API\obj\Debug\netcoreapp3.1\BMO.API.csproj.CoreCompileInputs.cache
+D:\Repos\BMOAPI\BMO.API\BMO.API\obj\Debug\netcoreapp3.1\BMO.API.MvcApplicationPartsAssemblyInfo.cache

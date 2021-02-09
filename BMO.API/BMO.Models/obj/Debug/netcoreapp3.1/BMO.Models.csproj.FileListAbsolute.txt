@@ -1,0 +1,9 @@
+D:\Repos\BMOAPI\BMO.API\BMO.Models\bin\Debug\netcoreapp3.1\BMO.Models.deps.json
+D:\Repos\BMOAPI\BMO.API\BMO.Models\bin\Debug\netcoreapp3.1\BMO.Models.dll
+D:\Repos\BMOAPI\BMO.API\BMO.Models\bin\Debug\netcoreapp3.1\BMO.Models.pdb
+D:\Repos\BMOAPI\BMO.API\BMO.Models\obj\Debug\netcoreapp3.1\BMO.Models.csprojAssemblyReference.cache
+D:\Repos\BMOAPI\BMO.API\BMO.Models\obj\Debug\netcoreapp3.1\BMO.Models.AssemblyInfoInputs.cache
+D:\Repos\BMOAPI\BMO.API\BMO.Models\obj\Debug\netcoreapp3.1\BMO.Models.AssemblyInfo.cs
+D:\Repos\BMOAPI\BMO.API\BMO.Models\obj\Debug\netcoreapp3.1\BMO.Models.csproj.CoreCompileInputs.cache
+D:\Repos\BMOAPI\BMO.API\BMO.Models\obj\Debug\netcoreapp3.1\BMO.Models.dll
+D:\Repos\BMOAPI\BMO.API\BMO.Models\obj\Debug\netcoreapp3.1\BMO.Models.pdb

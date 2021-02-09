@@ -1,0 +1,9 @@
+D:\Repos\BMOAPI\BMO.API\BMO.Business\bin\Debug\netcoreapp3.1\BMO.Business.deps.json
+D:\Repos\BMOAPI\BMO.API\BMO.Business\bin\Debug\netcoreapp3.1\BMO.Business.dll
+D:\Repos\BMOAPI\BMO.API\BMO.Business\bin\Debug\netcoreapp3.1\BMO.Business.pdb
+D:\Repos\BMOAPI\BMO.API\BMO.Business\obj\Debug\netcoreapp3.1\BMO.Business.csprojAssemblyReference.cache
+D:\Repos\BMOAPI\BMO.API\BMO.Business\obj\Debug\netcoreapp3.1\BMO.Business.AssemblyInfoInputs.cache
+D:\Repos\BMOAPI\BMO.API\BMO.Business\obj\Debug\netcoreapp3.1\BMO.Business.AssemblyInfo.cs
+D:\Repos\BMOAPI\BMO.API\BMO.Business\obj\Debug\netcoreapp3.1\BMO.Business.csproj.CoreCompileInputs.cache
+D:\Repos\BMOAPI\BMO.API\BMO.Business\obj\Debug\netcoreapp3.1\BMO.Business.dll
+D:\Repos\BMOAPI\BMO.API\BMO.Business\obj\Debug\netcoreapp3.1\BMO.Business.pdb
