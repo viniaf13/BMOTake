@@ -18,11 +18,11 @@ namespace BMO.Service
             _repository = repository;
         }
 
-        public async Task<List<GithubRepoModel>> FindRepos()
+        public async Task<List<GithubRepoModel>> Find5TakeOlderRepos()
         {
             try
             {
-                HttpResponseMessage response = await this._repository.FindRepos();
+                HttpResponseMessage response = await this._repository.FindTakeRepos();
                 HttpContent content = response.Content;
                 string jsonContent = content.ReadAsStringAsync().Result;
 

@@ -23,7 +23,7 @@ namespace BMO.API.Controllers
         {
             try
             {
-                List<GithubRepoModel> result = await _service.FindRepos();
+                List<GithubRepoModel> result = await _service.Find5TakeOlderRepos();
                 return Ok(result);
             }
             catch(Exception e)

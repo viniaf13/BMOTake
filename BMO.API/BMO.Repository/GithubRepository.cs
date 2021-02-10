@@ -13,7 +13,7 @@ namespace BMO.Repository
             this._clientFactory = clientFactory;
         }
 
-        public async Task<HttpResponseMessage> FindRepos()
+        public async Task<HttpResponseMessage> FindTakeRepos()
         {
             HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Get, TAKE_REPO_URL);
             request.Headers.Add("User-Agent", "request");
