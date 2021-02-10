@@ -1,9 +1,0 @@
-D:\Repos\BMOAPI\BMO.API\BMO.Repositories\bin\Debug\netcoreapp3.1\BMO.Repositories.deps.json
-D:\Repos\BMOAPI\BMO.API\BMO.Repositories\bin\Debug\netcoreapp3.1\BMO.Repositories.dll
-D:\Repos\BMOAPI\BMO.API\BMO.Repositories\bin\Debug\netcoreapp3.1\BMO.Repositories.pdb
-D:\Repos\BMOAPI\BMO.API\BMO.Repositories\obj\Debug\netcoreapp3.1\BMO.Repositories.csprojAssemblyReference.cache
-D:\Repos\BMOAPI\BMO.API\BMO.Repositories\obj\Debug\netcoreapp3.1\BMO.Repositories.AssemblyInfoInputs.cache
-D:\Repos\BMOAPI\BMO.API\BMO.Repositories\obj\Debug\netcoreapp3.1\BMO.Repositories.AssemblyInfo.cs
-D:\Repos\BMOAPI\BMO.API\BMO.Repositories\obj\Debug\netcoreapp3.1\BMO.Repositories.csproj.CoreCompileInputs.cache
-D:\Repos\BMOAPI\BMO.API\BMO.Repositories\obj\Debug\netcoreapp3.1\BMO.Repositories.dll
-D:\Repos\BMOAPI\BMO.API\BMO.Repositories\obj\Debug\netcoreapp3.1\BMO.Repositories.pdb

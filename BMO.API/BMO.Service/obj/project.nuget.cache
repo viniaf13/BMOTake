@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "3R2dpKOvTQZF019NWWZgiOFviUimvFtXKcvodu2Fz2hfsuh8ZDGAEgc2BrhN2O8LzwNcfMyWUKNROakCPXqvSg==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\BMOTake\\BMO.API\\BMO.Service\\BMO.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinícius\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vinícius\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vinícius\\.nuget\\packages\\microsoft.extensions.http\\5.0.0\\microsoft.extensions.http.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vinícius\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vinícius\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vinícius\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vinícius\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vinícius\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\microsoft.visualstudio.ole.interop.16.7.30328.74.nupkg.sha512",
+    "C:\\Users\\Vinícius\\.nuget\\packages\\microsoft.visualstudio.shell.interop\\16.7.30328.74\\microsoft.visualstudio.shell.interop.16.7.30328.74.nupkg.sha512",
+    "C:\\Users\\Vinícius\\.nuget\\packages\\microsoft.visualstudio.shell.interop.10.0\\16.7.30328.74\\microsoft.visualstudio.shell.interop.10.0.16.7.30328.74.nupkg.sha512",
+    "C:\\Users\\Vinícius\\.nuget\\packages\\microsoft.visualstudio.shell.interop.11.0\\16.7.30328.74\\microsoft.visualstudio.shell.interop.11.0.16.7.30328.74.nupkg.sha512",
+    "C:\\Users\\Vinícius\\.nuget\\packages\\microsoft.visualstudio.shell.interop.8.0\\16.7.30328.74\\microsoft.visualstudio.shell.interop.8.0.16.7.30328.74.nupkg.sha512",
+    "C:\\Users\\Vinícius\\.nuget\\packages\\microsoft.visualstudio.textmanager.interop\\16.7.30328.74\\microsoft.visualstudio.textmanager.interop.16.7.30328.74.nupkg.sha512",
+    "C:\\Users\\Vinícius\\.nuget\\packages\\microsoft.visualstudio.textmanager.interop.8.0\\16.7.30328.74\\microsoft.visualstudio.textmanager.interop.8.0.16.7.30328.74.nupkg.sha512",
+    "C:\\Users\\Vinícius\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Vinícius\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

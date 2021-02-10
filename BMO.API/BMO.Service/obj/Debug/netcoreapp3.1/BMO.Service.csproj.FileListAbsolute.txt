@@ -1,0 +1,14 @@
+D:\Repos\BMOTake\BMO.API\BMO.Service\bin\Debug\netcoreapp3.1\BMO.Service.deps.json
+D:\Repos\BMOTake\BMO.API\BMO.Service\bin\Debug\netcoreapp3.1\BMO.Service.dll
+D:\Repos\BMOTake\BMO.API\BMO.Service\bin\Debug\netcoreapp3.1\BMO.Service.pdb
+D:\Repos\BMOTake\BMO.API\BMO.Service\obj\Debug\netcoreapp3.1\BMO.Service.AssemblyInfoInputs.cache
+D:\Repos\BMOTake\BMO.API\BMO.Service\obj\Debug\netcoreapp3.1\BMO.Service.AssemblyInfo.cs
+D:\Repos\BMOTake\BMO.API\BMO.Service\obj\Debug\netcoreapp3.1\BMO.Service.csproj.CoreCompileInputs.cache
+D:\Repos\BMOTake\BMO.API\BMO.Service\obj\Debug\netcoreapp3.1\BMO.Service.dll
+D:\Repos\BMOTake\BMO.API\BMO.Service\obj\Debug\netcoreapp3.1\BMO.Service.pdb
+D:\Repos\BMOTake\BMO.API\BMO.Service\bin\Debug\netcoreapp3.1\BMO.Model.dll
+D:\Repos\BMOTake\BMO.API\BMO.Service\bin\Debug\netcoreapp3.1\BMO.Repository.dll
+D:\Repos\BMOTake\BMO.API\BMO.Service\bin\Debug\netcoreapp3.1\BMO.Model.pdb
+D:\Repos\BMOTake\BMO.API\BMO.Service\bin\Debug\netcoreapp3.1\BMO.Repository.pdb
+D:\Repos\BMOTake\BMO.API\BMO.Service\obj\Debug\netcoreapp3.1\BMO.Service.csprojAssemblyReference.cache
+D:\Repos\BMOTake\BMO.API\BMO.Service\obj\Debug\netcoreapp3.1\BMO.Service.csproj.CopyComplete

@@ -1,0 +1,330 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BMO.Service/1.0.0": {
+        "dependencies": {
+          "BMO.Model": "1.0.0",
+          "BMO.Repository": "1.0.0",
+          "Microsoft.VisualStudio.Shell.Interop.11.0": "16.7.30328.74",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "BMO.Service.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/5.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "Microsoft.Extensions.Http/5.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0",
+          "Microsoft.Extensions.Logging": "5.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "5.0.0",
+          "Microsoft.Extensions.Options": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging/5.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "5.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "5.0.0",
+          "Microsoft.Extensions.Options": "5.0.0",
+          "System.Diagnostics.DiagnosticSource": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Extensions.Logging.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/5.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/5.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0",
+          "Microsoft.Extensions.Primitives": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/5.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.OLE.Interop/16.7.30328.74": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.VisualStudio.OLE.Interop.dll": {
+            "assemblyVersion": "7.1.40304.0",
+            "fileVersion": "7.10.6070.0"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Shell.Interop/16.7.30328.74": {
+        "dependencies": {
+          "Microsoft.VisualStudio.TextManager.Interop": "16.7.30328.74"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.VisualStudio.Shell.Interop.dll": {
+            "assemblyVersion": "7.1.40304.0",
+            "fileVersion": "7.10.6071.0"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Shell.Interop.10.0/16.7.30328.74": {
+        "dependencies": {
+          "Microsoft.VisualStudio.Shell.Interop.8.0": "16.7.30328.74"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.VisualStudio.Shell.Interop.10.0.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.30319.1"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Shell.Interop.11.0/16.7.30328.74": {
+        "dependencies": {
+          "Microsoft.VisualStudio.Shell.Interop.10.0": "16.7.30328.74"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.VisualStudio.Shell.Interop.11.0.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.61030.0"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Shell.Interop.8.0/16.7.30328.74": {
+        "dependencies": {
+          "Microsoft.VisualStudio.TextManager.Interop.8.0": "16.7.30328.74"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.VisualStudio.Shell.Interop.8.0.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.50727.938"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.TextManager.Interop/16.7.30328.74": {
+        "dependencies": {
+          "Microsoft.VisualStudio.OLE.Interop": "16.7.30328.74"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.VisualStudio.TextManager.Interop.dll": {
+            "assemblyVersion": "7.1.40304.0",
+            "fileVersion": "7.10.6070.0"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.TextManager.Interop.8.0/16.7.30328.74": {
+        "dependencies": {
+          "Microsoft.VisualStudio.Shell.Interop": "16.7.30328.74"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.VisualStudio.TextManager.Interop.8.0.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.50727.932"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "System.Diagnostics.DiagnosticSource/5.0.0": {
+        "runtime": {
+          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "BMO.Model/1.0.0": {
+        "runtime": {
+          "BMO.Model.dll": {}
+        }
+      },
+      "BMO.Repository/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Http": "5.0.0"
+        },
+        "runtime": {
+          "BMO.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BMO.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Rc2kb/p3Ze6cP6rhFC3PJRdWGbLvSHZc0ev7YlyeU6FmHciDMLrhoVoTUEzKPhN5ZjFgKF1Cf5fOz8mCMIkvpA==",
+      "path": "microsoft.extensions.dependencyinjection/5.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ORj7Zh81gC69TyvmcUm9tSzytcy8AVousi+IVRAI8nLieQjOFryRusSFh7+aLk16FN9pQNqJAiMd7BTKINK0kA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/5.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Http/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kT1ijDKZuSUhBtYoC1sXrmVKP7mA08h9Xrsr4VrS/QOtiKCEtUTTd7dd3XI9dwAb46tZSak13q/zdIcr4jqbyg==",
+      "path": "microsoft.extensions.http/5.0.0",
+      "hashPath": "microsoft.extensions.http.5.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MgOwK6tPzB6YNH21wssJcw/2MKwee8b2gI7SllYfn6rvTpIrVvVS5HAjSU2vqSku1fwqRvWP0MdIi14qjd93Aw==",
+      "path": "microsoft.extensions.logging/5.0.0",
+      "hashPath": "microsoft.extensions.logging.5.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NxP6ahFcBnnSfwNBi2KH2Oz8Xl5Sm2krjId/jRR3I7teFphwiUoUeZPwTNA21EX+5PtjqmyAvKaOeBXcJjcH/w==",
+      "path": "microsoft.extensions.logging.abstractions/5.0.0",
+      "hashPath": "microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CBvR92TCJ5uBIdd9/HzDSrxYak+0W/3+yxrNg8Qm6Bmrkh5L+nu6m3WeazQehcZ5q1/6dDA7J5YdQjim0165zg==",
+      "path": "microsoft.extensions.options/5.0.0",
+      "hashPath": "microsoft.extensions.options.5.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cI/VWn9G1fghXrNDagX9nYaaB/nokkZn0HYAawGaELQrl8InSezfe9OnfPZLcJq3esXxygh3hkq2c3qoV3SDyQ==",
+      "path": "microsoft.extensions.primitives/5.0.0",
+      "hashPath": "microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.OLE.Interop/16.7.30328.74": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-82RWNPPaQRfFlEtkRQZgSo16a6WpHgL2gfeXbo/ISFHHJWNg/vtyKQrAW7iAsDNp5f3uiZP+9pQWxShAFrlbMw==",
+      "path": "microsoft.visualstudio.ole.interop/16.7.30328.74",
+      "hashPath": "microsoft.visualstudio.ole.interop.16.7.30328.74.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Shell.Interop/16.7.30328.74": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v68f1ux3GuiyZ3Mb1PAxoIpFbVC9CTzvQngx0I6KOo0e3m3fa5xSJ7w04CGE9k2B9tkTcev3TfnGxHV6BnHaOA==",
+      "path": "microsoft.visualstudio.shell.interop/16.7.30328.74",
+      "hashPath": "microsoft.visualstudio.shell.interop.16.7.30328.74.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Shell.Interop.10.0/16.7.30328.74": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2qxk5E6NystJaLEaLMyi8GmsJ2+CAnWyIe98retxGCJrjGd9MmhNfFZ3zn04yJn7WFm8LrCinfkFkZtvDymqJw==",
+      "path": "microsoft.visualstudio.shell.interop.10.0/16.7.30328.74",
+      "hashPath": "microsoft.visualstudio.shell.interop.10.0.16.7.30328.74.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Shell.Interop.11.0/16.7.30328.74": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AF6XLnhmn9tl2tVOnL5rfcDmt2jGLHB/I8jDm2zq69Nc+3u8xIPgnTEBYrOVMDi3scYiNSvVrprsdEz32PBmUg==",
+      "path": "microsoft.visualstudio.shell.interop.11.0/16.7.30328.74",
+      "hashPath": "microsoft.visualstudio.shell.interop.11.0.16.7.30328.74.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Shell.Interop.8.0/16.7.30328.74": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-G0JJhLJdaCTt/nGp6aM4kqbm1Fz1AjNCRVlItj20t6bN/YMmGD9EusV3H2xEt0XieWQRwXBRfyedmXe2LOiBDQ==",
+      "path": "microsoft.visualstudio.shell.interop.8.0/16.7.30328.74",
+      "hashPath": "microsoft.visualstudio.shell.interop.8.0.16.7.30328.74.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.TextManager.Interop/16.7.30328.74": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bzUqSd8+Z/dn2fx0O2wVbFzYHZYW63nv/u8IaGruOd1q1pAn0UBq0/ttk+9f9/m5mh96xnTZcdYr6M9SBUiXrA==",
+      "path": "microsoft.visualstudio.textmanager.interop/16.7.30328.74",
+      "hashPath": "microsoft.visualstudio.textmanager.interop.16.7.30328.74.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.TextManager.Interop.8.0/16.7.30328.74": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wxGl0loNpMGxPUkKzVz0ViavPSku8qNNLkIY6jypjE8FYRDQjIdeG7QD08eIowPUbUoQefd73V27ddPAMwaC9A==",
+      "path": "microsoft.visualstudio.textmanager.interop.8.0/16.7.30328.74",
+      "hashPath": "microsoft.visualstudio.textmanager.interop.8.0.16.7.30328.74.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "System.Diagnostics.DiagnosticSource/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tCQTzPsGZh/A9LhhA6zrqCRV4hOHsK90/G7q3Khxmn6tnB1PuNU0cRaKANP2AWcF9bn0zsuOoZOSrHuJk6oNBA==",
+      "path": "system.diagnostics.diagnosticsource/5.0.0",
+      "hashPath": "system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+    },
+    "BMO.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BMO.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

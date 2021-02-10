@@ -1,17 +1,90 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\BMOAPI\\BMO.API\\BMO.API\\BMO.API.csproj": {}
+    "D:\\Repos\\BMOTake\\BMO.API\\BMO.API\\BMO.API.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\BMOAPI\\BMO.API\\BMO.API\\BMO.API.csproj": {
+    "D:\\Repos\\BMOTake\\BMO.API\\BMO.API\\BMO.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\BMOAPI\\BMO.API\\BMO.API\\BMO.API.csproj",
+        "projectUniqueName": "D:\\Repos\\BMOTake\\BMO.API\\BMO.API\\BMO.API.csproj",
         "projectName": "BMO.API",
-        "projectPath": "D:\\Repos\\BMOAPI\\BMO.API\\BMO.API\\BMO.API.csproj",
+        "projectPath": "D:\\Repos\\BMOTake\\BMO.API\\BMO.API\\BMO.API.csproj",
         "packagesPath": "C:\\Users\\Vinícius\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\BMOAPI\\BMO.API\\BMO.API\\obj\\",
+        "outputPath": "D:\\Repos\\BMOTake\\BMO.API\\BMO.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vinícius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Repos\\BMOTake\\BMO.API\\BMO.Model\\BMO.Model.csproj": {
+                "projectPath": "D:\\Repos\\BMOTake\\BMO.API\\BMO.Model\\BMO.Model.csproj"
+              },
+              "D:\\Repos\\BMOTake\\BMO.API\\BMO.Repository\\BMO.Repository.csproj": {
+                "projectPath": "D:\\Repos\\BMOTake\\BMO.API\\BMO.Repository\\BMO.Repository.csproj"
+              },
+              "D:\\Repos\\BMOTake\\BMO.API\\BMO.Service\\BMO.Service.csproj": {
+                "projectPath": "D:\\Repos\\BMOTake\\BMO.API\\BMO.Service\\BMO.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Shell.Interop.11.0": {
+              "target": "Package",
+              "version": "[16.7.30328.74, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repos\\BMOTake\\BMO.API\\BMO.Model\\BMO.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repos\\BMOTake\\BMO.API\\BMO.Model\\BMO.Model.csproj",
+        "projectName": "BMO.Model",
+        "projectPath": "D:\\Repos\\BMOTake\\BMO.API\\BMO.Model\\BMO.Model.csproj",
+        "packagesPath": "C:\\Users\\Vinícius\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\BMOTake\\BMO.API\\BMO.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vinícius\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,14 +123,142 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repos\\BMOTake\\BMO.API\\BMO.Repository\\BMO.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repos\\BMOTake\\BMO.API\\BMO.Repository\\BMO.Repository.csproj",
+        "projectName": "BMO.Repository",
+        "projectPath": "D:\\Repos\\BMOTake\\BMO.API\\BMO.Repository\\BMO.Repository.csproj",
+        "packagesPath": "C:\\Users\\Vinícius\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\BMOTake\\BMO.API\\BMO.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vinícius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repos\\BMOTake\\BMO.API\\BMO.Service\\BMO.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repos\\BMOTake\\BMO.API\\BMO.Service\\BMO.Service.csproj",
+        "projectName": "BMO.Service",
+        "projectPath": "D:\\Repos\\BMOTake\\BMO.API\\BMO.Service\\BMO.Service.csproj",
+        "packagesPath": "C:\\Users\\Vinícius\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\BMOTake\\BMO.API\\BMO.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vinícius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Repos\\BMOTake\\BMO.API\\BMO.Model\\BMO.Model.csproj": {
+                "projectPath": "D:\\Repos\\BMOTake\\BMO.API\\BMO.Model\\BMO.Model.csproj"
+              },
+              "D:\\Repos\\BMOTake\\BMO.API\\BMO.Repository\\BMO.Repository.csproj": {
+                "projectPath": "D:\\Repos\\BMOTake\\BMO.API\\BMO.Repository\\BMO.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Shell.Interop.11.0": {
+              "target": "Package",
+              "version": "[16.7.30328.74, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
